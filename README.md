@@ -19,3 +19,5 @@ people would still have international phone call access to call anywhere in the 
 ONLY US government ips would have full blown internet access to connect to any ip in the world
 
 but customer ip and business ips and private ips would filter through the national firewall
+
+including cellphones and business and customer internet
